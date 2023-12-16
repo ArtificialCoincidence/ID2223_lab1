@@ -1,0 +1,14 @@
+parameter
+fixed_acidity
+volatile_acidity
+citric_aicd
+residual_sugar
+chlorides
+free_sulfur_dioxide
+total_sulfur_dioxide
+density
+ph
+sulphates
+alcohol
+color
+quality
